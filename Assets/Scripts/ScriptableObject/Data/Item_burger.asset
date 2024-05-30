@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516e9979023ba684a88ff269e84e919c, type: 3}
+  m_Name: Item_burger
+  m_EditorClassIdentifier: 
+  displayName: "\uD584\uBC84\uAC70"
+  description: "\uC5B4\uB514\uC5D0\uB098 \uD30C\uB294 \uAE30\uBCF8\uC801\uC778 \uD584\uBC84\uAC70"
+  type: 0
+  icon: {fileID: 21300000, guid: 322d43d168a353f45b9908a779053b55, type: 3}
+  dropPrefab: {fileID: 480407099211181806, guid: 2f9668b742a29fb4187e9e36ba715109, type: 3}
+  consumables:
+  - type: 2
+    value: 20

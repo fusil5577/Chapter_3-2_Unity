@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516e9979023ba684a88ff269e84e919c, type: 3}
+  m_Name: Item_Cola
+  m_EditorClassIdentifier: 
+  displayName: "\uD3A9\uC2DC \uCF5C\uB77C"
+  description: "\uB2E8\uB9DB\uC774 \uB354 \uAC15\uD569\uB2C8\uB2E4"
+  type: 0
+  icon: {fileID: 21300000, guid: 7561e20bfb57a5c43b18ffaf3b22dbbe, type: 3}
+  dropPrefab: {fileID: 5931022619086729994, guid: 775d3b5e3414bdc4cbf6726d53f36948, type: 3}
+  consumables:
+  - type: 0
+    value: 3
